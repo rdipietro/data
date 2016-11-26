@@ -1,6 +1,6 @@
 # Some Small Datasets
 
-This files are licensed under the
+These files are licensed under the
 [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons)
 [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 license.
