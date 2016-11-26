@@ -16,3 +16,10 @@ Under the following conditions:
 - share alike – If you alter, transform, or build upon this work, you may
   distribute the resulting work only under the same or similar license to this
   one.
+
+## Datasets
+
+### Beethoven
+
+This is a 5-second clip taken from Beethoven's Symphony No. 7. It starts at the
+10-second mark of the Finale (to avoid the relatively silent beginning).
