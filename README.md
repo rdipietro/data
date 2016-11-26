@@ -21,5 +21,9 @@ Under the following conditions:
 
 ### Beethoven
 
-This is a 5-second clip taken from Beethoven's Symphony No. 7. It starts at the
-10-second mark of the Finale (to avoid the relatively silent beginning).
+This is a short clip taken from Beethoven's Symphony No. 7. It
+- starts at the 10-second mark of the Finale (to avoid the relatively silent
+  beginning),
+- has a duration of (a little less than) 5 seconds,
+- has a sample rate of 44.1 kHz, and
+- has 2 channels.

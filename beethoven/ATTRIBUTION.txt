@@ -1,1 +1,3 @@
+This is a clipped version of
 https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-BEETHOVEN_SYMPHONY_7_Finale.ogg
+starting at 10 seconds and going for (a little less than) 5 seconds.
